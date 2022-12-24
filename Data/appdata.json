@@ -10,9 +10,9 @@
             "facebookprofile":"komoenet",
             "moviedatasize":"10",
             "tvdatasize":"10",
-            "channelURL":"https://appmmdev.github.io/testapi/MCTV/tvchannel.json",
-            "movieURL":"https://appmmdev.github.io/testapi/MCTV/movies.json",
-            "seriesURL":"https://appmmdev.github.io/testapi/MCTV/series.json"
+            "channelURL":"https://appmmdev.github.io/MCTVApp/Data/tvchannel.json",
+            "movieURL":"https://appmmdev.github.io/MCTVApp/Data/movies.json",
+            "seriesURL":"https://appmmdev.github.io/MCTVApp/Data/series.json"
             
         }
     ]
