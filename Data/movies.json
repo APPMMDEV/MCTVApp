@@ -3,6 +3,41 @@
    
    
     {
+      "movietitle": "Code Name: Tiranga",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-30/63aebb0c6202c.PNG",
+      "link": "http://www.zegomovie.com/Videos/CodenameTiranga/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "A1 Express",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-30/63aebe9556317.PNG",
+      "link": "http://www.zegomovie.com/Videos/A1Express/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Yugi",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-31/63afa1deda080.PNG",
+      "link": "http://www.zegomovie.com/Videos/Yugi/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Phone Bhoot",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-31/63afafa394a1a.png",
+      "link": "http://www.zegomovie.com/Videos/PhoneBhoot/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Joyland",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-31/63afc60c60ba6.png",
+      "link": "http://www.zegomovie.com/Videos/Joyland/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": " Drishyam 1",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff31aa4525c.jpg",
