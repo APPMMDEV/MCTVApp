@@ -3,6 +3,34 @@
    
     
     {
+      "movietitle": "DHURUVANGAL PATHINAARU",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15b5ccd7876.jpg",
+      "link": "http://www.zegomovie.com/Videos/DHURUVANGALPATHINAARU/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "SARKAR",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-26/5d131e0554eb0.jpg",
+      "link": "http://www.zegomovie.com/Videos/Sarkar/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    }, {
+      "movietitle": "Big Stan",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-06/5cf8b3044e72e.jpg",
+      "link": "http://www.zegomovie.com/Videos/BigStan/index.m3u8",
+      "catagory": "USA",
+      "studio": "USA"
+    }, {
+      "movietitle": "Big Stan",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-06/5cf8b3044e72e.jpg",
+      "link": "http://www.zegomovie.com/Videos/BigStan/index.m3u8",
+      "catagory": "USA",
+      "studio": "USA"
+    },{
       "movietitle": " The Sorcerer's Apprentice",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-27/5ceba7332efeb.jpg",
