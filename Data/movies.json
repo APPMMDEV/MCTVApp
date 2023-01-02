@@ -3,6 +3,20 @@
    
    
     {
+      "movietitle": "Rudra Thandavam",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-07/61d7b7b0cff42.jpg",
+      "link": "http://www.zegomovie.com/Videos/RudraThandavam/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "The Ghost",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-03/636391bb9dcf2.jpg",
+      "link": "http://www.zegomovie.com/Videos/TheGhost/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Code Name: Tiranga",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-30/63aebb0c6202c.PNG",
