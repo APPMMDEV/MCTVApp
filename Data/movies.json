@@ -3,6 +3,41 @@
    
    
     {
+      "movietitle": "Jab Tak Hai Jaan",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff4981c1ba7.jpg",
+      "link": "http://www.zegomovie.com/Videos/JabTakHaiJaan/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Govindudu Andarivadele",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfdd2e5216d4.jpg",
+      "link": "http://www.zegomovie.com/Videos/GovinduduAndarivadele/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Arundati",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfdde9d10f1f.jpg",
+      "link": "http://www.zegomovie.com/Videos/Arundatitwo/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Bruce Lee The Fighter",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-05/5cf77cff9d3a9.jpg",
+      "link": "http://www.zegomovie.com/Videos/BruceLeeTheFighter/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Ab Tak Chhappan 2",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-28/5ced19c15076e.jpg",
+      "link": "http://www.zegomovie.com/Videos/abtakchhappan2/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Gangs Of 18",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-03-09/622877a42a35d.jpg",
