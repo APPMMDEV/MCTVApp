@@ -3,6 +3,27 @@
    
    
     {
+      "movietitle": "Looop Lapeta",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-02-19/621078b021361.jpg",
+      "link": "http://www.zegomovie.com/Videos/LooopLapeta/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Maaran",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-03-19/6235881041005.jpg",
+      "link": "http://www.zegomovie.com/Videos/Maaran/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "The 12th Man",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-06-08/62a0719b472ee.jpg",
+      "link": "http://www.zegomovie.com/Videos/12thMan/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Rudra Thandavam",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-07/61d7b7b0cff42.jpg",
