@@ -3,6 +3,41 @@
    
    
     {
+      "movietitle": "NET",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-03/63b4067f3faaa.png",
+      "link": "http://www.zegomovie.com/Videos/NET/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Khatta Meetha",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-02/63b279dd0cfbb.PNG",
+      "link": "http://www.zegomovie.com/Videos/KhattaMeetha/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Captain",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-03/63b3adec9f7b4.PNG",
+      "link": "http://www.zegomovie.com/Videos/Capatin/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Mili",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-02/63b298742b094.png",
+      "link": "http://www.zegomovie.com/Videos/Mili/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Naanum Rowdydhaan",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-03/63b3ea3d250e1.PNG",
+      "link": "http://www.zegomovie.com/Videos/NaanumRowdyDhaan/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Jab Tak Hai Jaan",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff4981c1ba7.jpg",
