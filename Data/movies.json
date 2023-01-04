@@ -3,6 +3,34 @@
    
    
     {
+      "movietitle": "Raatchasi",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-10-28/5db6bd073f651.jpg",
+      "link": "http://www.zegomovie.com/Videos/Raatchasi/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Satyagraha",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfdd8f65e5f9.jpg",
+      "link": "http://www.zegomovie.com/Videos/Satyagraha/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Oppam",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfde9b8614cd.jpg",
+      "link": "http://www.zegomovie.com/Videos/Oppam/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Lingaa",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-25/5d11be55e8e5e.jpg",
+      "link": "http://www.zegomovie.com/Videos/Lingaa/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "NET",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-03/63b4067f3faaa.png",
