@@ -471,6 +471,94 @@
       ],
       "catagory": "Marvel",
       "studio": "Marvel"
+    },{
+      "movietitle": "Sherlock Homes Season 1",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "link": [
+        {
+          "ep_no": "Sherlock Homes Season 1 EP 1",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season1)Ep1/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 1 EP 2",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season1)Ep2/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 1 EP 3",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season1)Ep3/index.m3u8"
+        }
+      
+      ],
+      "catagory": "USA",
+      "studio": "USA"
+    },{
+      "movietitle": "Sherlock Homes Season 2",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "link": [
+        {
+          "ep_no": "Sherlock Homes Season 2 EP 1",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season2)Ep1/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 2 EP 2",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season2)Ep2/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 2 EP 3",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season2)Ep3/index.m3u8"
+        }
+      
+      ],
+      "catagory": "USA",
+      "studio": "USA"
+    },{
+      "movietitle": "Sherlock Homes Season 3",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "link": [
+        {
+          "ep_no": "Sherlock Homes Season 3 EP 1",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season3)Ep1/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 3 EP 2",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season3)Ep2/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 3 EP 3",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season3)Ep3/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 3 EP 4",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(SpecialEpisode)TheAbominableBride/index.m3u8"
+        }
+      
+      ],
+      "catagory": "USA",
+      "studio": "USA"
+    },{
+      "movietitle": "Sherlock Homes Season 4",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-24/5d60e673d5762.jpg",
+      "link": [
+        {
+          "ep_no": "Sherlock Homes Season 4 EP 1",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season4)Ep1/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 4 EP 2",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season4)Ep2/index.m3u8"
+        },
+        {
+          "ep_no": "Sherlock Homes Season 4 EP 3",
+          "link": "http://www.zegomovie.com/Videos/Sherlock(Season4)Ep3/index.m3u8"
+        }
+      
+      ],
+      "catagory": "USA",
+      "studio": "USA"
     }
   ]
 }
