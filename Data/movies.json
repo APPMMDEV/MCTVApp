@@ -3,6 +3,27 @@
    
    
     {
+      "movietitle": "Dobaaraa",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b8da45801a1.PNG",
+      "link": "http://www.zegomovie.com/Videos/Dobaaraa/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Prince",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b8d8713ae7d.PNG",
+      "link": "http://www.zegomovie.com/Videos/Prince/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Churuli",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-05/63b64f728496b.JPG",
+      "link": "http://www.zegomovie.com/Videos/Churuli/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Raatchasi",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-10-28/5db6bd073f651.jpg",
