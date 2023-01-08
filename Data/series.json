@@ -691,6 +691,64 @@
       ],
       "catagory": "USA",
       "studio": "USA"
+    },{
+      "movietitle": "Big Mouth",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-08-20/6300a24ddddff.jpg",
+      "link": [
+        {
+          "ep_no": "Big Mouth EP 1",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp1/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 2",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp2/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 3",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp3/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 4",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp4/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 5",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp5/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 6",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp6/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 7",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp7/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 8",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp8/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 9",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp9/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 10",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp10/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 11",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp11/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 12",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp12/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 13",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp13/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 14",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp14/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 15",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp15/index.m3u8"
+        },{
+          "ep_no": "Big Mouth EP 16",
+          "link": "http://www.zegomovie.com/Videos/BigMouthEp16/index.m3u8"
+        }
+        
+      ],
+      "catagory": "Korea",
+      "studio": "Korea"
     }
   ]
 }
