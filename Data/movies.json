@@ -3,6 +3,13 @@
    
    
     {
+      "movietitle": "The Pale Blue Eye",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b8eabfcbce0.png",
+      "link": "http://www.zegomovie.com/Videos/ThePaleBlueEye/index.m3u8",
+      "catagory": "USA",
+      "studio": "USA"
+    },{
       "movietitle": "Mardaani",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-01/5cf22fb50e351.jpg",
