@@ -3,6 +3,27 @@
    
    
     {
+      "movietitle": "Jango",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-02-07/6200d3b92baeb.jpg",
+      "link": "http://www.zegomovie.com/Videos/Jango2021/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Romantic",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-01-14/61e137e47dd78.jpg",
+      "link": "http://www.zegomovie.com/Videos/Romantic/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Naduvan",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-10-01/6156dafea5d0a.png",
+      "link": "http://www.zegomovie.com/Videos/Naduvan/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "The Pale Blue Eye",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-07/63b8eabfcbce0.png",
