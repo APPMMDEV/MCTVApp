@@ -2,10 +2,17 @@
   "Movies_Database": [
    
    
-    {
-      "movietitle": "Don 1",
+  {
+      "movietitle": "Black",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf634bebfad9.jpg",
+      "link": "http://www.zegomovie.com/Videos/Black/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Don",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bd0d46d887e.jpg",
       "link": "http://www.zegomovie.com/Videos/Don/index.m3u8",
       "catagory": "Bollywood",
       "studio": "Bollywood"
