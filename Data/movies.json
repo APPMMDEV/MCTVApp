@@ -3,6 +3,27 @@
    
    
   {
+      "movietitle": "Vikram",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bd0ec70f360.PNG",
+      "link": "http://www.zegomovie.com/Videos/Vikram/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Forensic",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bd0f9b34905.png",
+      "link": "http://www.zegomovie.com/Videos/Forensic/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Arctic Void",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2023-01-10/63bd0ad1216c2.PNG",
+      "link": "http://www.zegomovie.com/Videos/ArcticVoid/index.m3u8",
+      "catagory": "USA",
+      "studio": "Hollywood"
+    },{
       "movietitle": "Black",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf634bebfad9.jpg",
