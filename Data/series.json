@@ -749,6 +749,76 @@
       ],
       "catagory": "Korea",
       "studio": "Korea"
+    },{
+      "movietitle": "Good Doctor (Korea 2013)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-28/5d15ce6c924fa.jpg",
+      "link": [
+        {
+            "ep_no": "Good Doctor EP 1",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor1/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 2",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor2/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 3",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor3/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 4",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor4/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 5",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor5/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 6",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor6/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 7",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor7/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 8",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor8/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 9",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor9/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 10",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor10/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 11",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor11/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 12",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor12/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 13",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor13/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 14",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor14/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 15",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor15/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 16",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor16/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 17",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor17/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 18",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor18/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 19",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor19/index.m3u8"
+          },{
+            "ep_no": "Good Doctor EP 20",
+            "link": "http://www.zegomovie.com/Videos/GoodDoctor20/index.m3u8"
+          }
+      
+      ],
+      "catagory": "Korea",
+      "studio": "Korea"
     }
   ]
 }
