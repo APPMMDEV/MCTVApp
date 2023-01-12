@@ -5,8 +5,8 @@
 
         {
 
-            "appversion":"5.0",
-            "updatemessage":"Fix Bug & Add Next Play Button",
+            "appversion":"6.0",
+            "updatemessage":"Fix first install force close",
             "facebookprofile":"komoenet",
             "moviedatasize":"10",
             "tvdatasize":"10",
